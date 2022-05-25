@@ -35,7 +35,7 @@ The "extract_transform_and load" function was added to read the kaggle_metadata 
 Additional code was added to the code above to create a SQL database from the movies_df DataFrame and MovieLens rating data. I ran two queries to confirm the number of rows from the movies table and the ratings table.
 
 #### Movies Table Count Query
-![Movies Query](https://github.com/jstearns1988/Movies-ETL/blob/main/movies_query.png?raw=true)
+![Movies Query](https://github.com/jstearns1988/Movies-ETL/blob/main/Resources/movies_query.png?raw=true)
 
 #### Ratings Table Count Query
-![ratings]()
+![ratings](https://github.com/jstearns1988/Movies-ETL/blob/main/Resources/ratings_query.png?raw=true)
